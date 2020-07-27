@@ -49,6 +49,7 @@ flutter_complete_ui
 Holds information needed to create the application. Automatically managed by flutter.
 
 flutter_complete_ui
+```
 |-- .pubspec.yaml
 ```
 Manage dependencies for the application.
