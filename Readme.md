@@ -4,4 +4,4 @@ This repo is intented to be a personal store for all the content covered in [Flu
 
 - Source code for lessons
 - Source code for projects
-- General tips and tutorials
+- General tips and tutorialsd
